@@ -53,10 +53,6 @@ file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
 hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
 
 [[files]]
-file = "config/modpack_defaults/config/fabrishot.properties"
-hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
-
-[[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
