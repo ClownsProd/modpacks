@@ -1,0 +1,8 @@
+name = "Survival Islands"
+filename = "survival-islands-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/survival-islands-1.1.0.jar"
+hash-format = "sha256"
+hash = "3d8be9f45b69ab911d38174c052331a00b32c283a5693240a2cf4ee3f9f887c5"

@@ -1,0 +1,17 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "CLWN SMP 1.ll.1",
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://discord.gg/rVmd2K2hS3"
+                },
+                "hover_event": {
+                    "action": "show_text",
+                    "value": "https://discord.gg/rVmd2K2hS3"
+                }
+            }
+        ]
+    }
+}

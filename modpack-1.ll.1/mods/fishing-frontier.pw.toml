@@ -1,0 +1,13 @@
+name = "Fishing Frontier"
+filename = "fishing-frontier-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jx0c12oz/versions/Qtpg0o8Z/fishing-frontier-3.0.1.jar"
+hash-format = "sha512"
+hash = "aa8ba29288b98b46f9e7560ffa6a99dd548ad2f6c817e50f87acaefe3ff9bfdb52b5dc1b95e2f8f5bcedfa7ca4cd49c10d3f9ad13d044afe38f5fdee99d0f496"
+
+[update]
+[update.modrinth]
+mod-id = "Jx0c12oz"
+version = "Qtpg0o8Z"

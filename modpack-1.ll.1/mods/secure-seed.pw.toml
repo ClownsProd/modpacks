@@ -1,0 +1,8 @@
+name = "Secure Seed"
+filename = "secure-seed-reborn-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/secure-seed-reborn-1.1.0.jar"
+hash-format = "sha256"
+hash = "f3f25cc023e4783a16f54f8123793bcd2394e9a10e866a304b993d9bfa51a792"

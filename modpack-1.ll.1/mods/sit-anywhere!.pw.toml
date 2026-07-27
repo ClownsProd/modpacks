@@ -1,0 +1,13 @@
+name = "Sit Anywhere!"
+filename = "sit-anywhere!-2.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gNPj0UDg/versions/keYknJ3X/sit-anywhere%21-2.3.5.jar"
+hash-format = "sha512"
+hash = "b7825589194300694fbf3f95c76f6e23d55d8225fb59e4693900356ca3438554238feef26bdc7426aabf2e20fa0334e42406c5d54ccf0be80b76d75dc11ad730"
+
+[update]
+[update.modrinth]
+mod-id = "gNPj0UDg"
+version = "keYknJ3X"

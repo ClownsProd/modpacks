@@ -1,0 +1,16 @@
+name = "wWaypoints"
+side = "client"
+filename = "wWaypoints 0.7.2 26.2.jar"
+
+[update.modrinth]
+mod-id = "eQke7g17"
+version = "reAALVfG"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/eQke7g17/versions/reAALVfG/wWaypoints%200.7.2%2026.2.jar"
+hash = "2b09afe723d2aab7ae1f79e67f9d0df3121022588cd7ca4131f5110420fe6b87555793aaf05f118820f8a26a6bf0ff9d0ef1fe22970352f8c61cda1868bbc1cf"
+
+[option]
+description = "Мод на метки"
+optional = true

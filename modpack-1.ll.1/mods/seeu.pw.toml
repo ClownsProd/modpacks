@@ -1,0 +1,16 @@
+name = "SeeU"
+side = "both"
+filename = "seeu-fabric-0.7.2.jar"
+
+[update.modrinth]
+mod-id = "coyNPDey"
+version = "gyNWLCPb"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/coyNPDey/versions/gyNWLCPb/seeu-fabric-0.7.2.jar"
+hash = "73a9532975b1d1f7a05a4773f5e68e06b902c93f2ae45814e11117d825206b0e22f9d2ff1b67068256d1efe327506cc106c5994278c0504befeaf2401f2fc9cc"
+
+[option]
+description = "Аддон для Voxy чтобы видеть игроков на больших расстояниях"
+optional = true
