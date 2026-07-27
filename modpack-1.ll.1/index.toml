@@ -113,6 +113,10 @@ file = "config/modpack_defaults/options.txt"
 hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
 
 [[files]]
+file = "config/modpack_defaults/servers.dat"
+hash = "8b4cee1bcc843b1b2720ba37770cb2c95416a9b7670c6ad373beaf165fbb255a"
+
+[[files]]
 file = "config/reeses_sodium_options.json"
 hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
 
