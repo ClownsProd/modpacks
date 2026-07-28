@@ -147,6 +147,11 @@ hash = "b8610e90885bb02aa8412af30634ca5c4d0bb7be0d109a0f88c61389862cca85"
 metafile = true
 
 [[files]]
+file = "mods/bendable-cuboids.pw.toml"
+hash = "deddb697fe24983ca3b7ce2becc1dd4f522a157d17c32e91b0d958c7fae3f697"
+metafile = true
+
+[[files]]
 file = "mods/betterblockentities.pw.toml"
 hash = "12c9ede2a192b2963a1c35b8d300619adbe589c3fe81a13c42f4def8ff7ccd4e"
 metafile = true
