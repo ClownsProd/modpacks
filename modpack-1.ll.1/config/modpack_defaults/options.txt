@@ -15,7 +15,7 @@ simulationDistance:8
 weatherRadius:5
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
-guiScale:3
+guiScale:2
 joinedFirstServer:true
 onboardAccessibility:true
 operatorItemsTab:true

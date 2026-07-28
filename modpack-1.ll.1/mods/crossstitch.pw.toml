@@ -1,0 +1,8 @@
+name = "CrossStitch"
+side = "server"
+filename = "CrossStitch-0.1.8.jar"
+
+[download]
+hash-format = "sha256"
+url = "https://raw.githubusercontent.com/ClownsProd/modpacks/refs/heads/master/files/1.ll.1/CrossStitch-0.1.8.jar"
+hash = "beb42df5197a73ef23fa8fb9c8d5a489d62ff762d1745293d2280b922c10b2f6"

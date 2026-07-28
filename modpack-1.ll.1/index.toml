@@ -106,7 +106,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
+hash = "2cab4fce61651a863b635b45367b8525d951914c0d35bbe4a89d9565a47be8a8"
 
 [[files]]
 file = "config/modpack_defaults/servers.dat"
@@ -139,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/axiom.pw.toml"
 hash = "87e41445217687f6dc26394ad2cea2c3d756e7dc4cc3b83452668f97d012884e"
+metafile = true
+
+[[files]]
+file = "mods/backported-wool-stairs-slabs.pw.toml"
+hash = "b8610e90885bb02aa8412af30634ca5c4d0bb7be0d109a0f88c61389862cca85"
 metafile = true
 
 [[files]]
@@ -197,6 +202,16 @@ hash = "81dc680eae06cdc29a93f95659ce7356c9202fac0aa3113796581deab8935f7e"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "158c20ace6e0e11d390aee31ed0fd236cd1839bfd28e4962ec6dbde7b9793bd8"
+metafile = true
+
+[[files]]
+file = "mods/cushions-backport.pw.toml"
+hash = "b42236c47fcf16ba0392694a2230c932487c04100a6585a589508985cc4b31a9"
+metafile = true
+
+[[files]]
 file = "mods/cwb.pw.toml"
 hash = "1d390691ec8a9c827b489aa56c65a829a195131ee64d2235dfb1ee1bf97442bb"
 metafile = true
@@ -219,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "8c6dd9c87e48d3faad808d0dfdf7c7104bca4e174d2c5453b16fd74d327757fb"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "5468d53bd0664dc38a7b8817c9cdff9c250e0758bc03ebd1fcc17c97ff11daf0"
 metafile = true
 
 [[files]]
@@ -254,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "bb3966260841112fc0fc3ce954531e39455b4918b6846c8f58ea7161605cb157"
 metafile = true
 
 [[files]]
@@ -464,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/sspb.pw.toml"
 hash = "58f1b88d724a30d10359c9ac9febdef6dabbcfec39bcee4476c1e65b7ace807d"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "bc2c97f6e110e6b699b66fc4cdcfd9caeffa5cc56e6fb2add6078ba4c603ee7d"
 metafile = true
 
 [[files]]
