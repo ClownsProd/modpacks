@@ -1,5 +1,5 @@
 name = "voxy"
-side = "client"
+side = "both"
 filename = "voxy-0.2.18-beta.jar"
 
 [update.modrinth]
