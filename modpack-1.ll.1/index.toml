@@ -167,6 +167,11 @@ hash = "ed28f4bafa48e5de7dae1388e1c630e7c1b31da620e8e5e68c036c79743078a1"
 metafile = true
 
 [[files]]
+file = "mods/bubstein-book.pw.toml"
+hash = "ec1445b831acf9b15832f1dd8cae01523492db7c158117b9891d7b7a86ae4490"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1e7880ad0f619559721ed817073279c49fcbee8c579163ff4eaf755318a536e5"
 metafile = true
@@ -307,6 +312,11 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "bd7d7e3769834928d245bd62c28418fe3c2f2bc291c7b9661e1bbaa906695a68"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
@@ -444,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "6ef115790ce36fb4794efcef2eda08eea0c849ae26f6bc8d0af3e03e1e2b03b8"
+metafile = true
+
+[[files]]
+file = "mods/screencopy.pw.toml"
+hash = "34038c20b05b9e7782b9573e458f065802968c9b7be2b4aa0687d80e2ef31df3"
 metafile = true
 
 [[files]]
