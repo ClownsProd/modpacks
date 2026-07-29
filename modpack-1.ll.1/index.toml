@@ -317,11 +317,6 @@ hash = "bd7d7e3769834928d245bd62c28418fe3c2f2bc291c7b9661e1bbaa906695a68"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
