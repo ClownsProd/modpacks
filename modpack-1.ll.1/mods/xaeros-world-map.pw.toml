@@ -13,4 +13,3 @@ hash = "f159f3393d84e00c6f31bb0ea3e1bd41a51315fc2905f9e87d796fc075f8be1722fa207d
 
 [option]
 description = "Мод на карту мира"
-optional = true
