@@ -237,6 +237,11 @@ hash = "88aa13d41089c63696b88a60353b21156b67416affbdb1f162478b4771b76ff2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a5b52e816e6fd24318d51f6e593f6b566c7a30c4c87402bbb68b89ce69e1b249"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "b8f31c192c76be39a365a5a80d0559332594c5fcaaab69598a5c8d3a62b580e8"
 metafile = true
@@ -549,16 +554,6 @@ metafile = true
 [[files]]
 file = "mods/voicemessages.pw.toml"
 hash = "c840b351ea937759e5e9bb350b2b792e7ebf51ecb254c97c91cf59d6d1db67f8"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "418bb6f24a7cdce7c824a3911519b548888d2ed6e950a12daa64fff7270cd3c2"
-metafile = true
-
-[[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "c9796b4c0a6290324d55f634f170ab832d3f10ca39f217de978e936d1ee3296e"
 metafile = true
 
 [[files]]
