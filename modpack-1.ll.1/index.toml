@@ -177,11 +177,6 @@ hash = "1e7880ad0f619559721ed817073279c49fcbee8c579163ff4eaf755318a536e5"
 metafile = true
 
 [[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "0b5e2fdadb9ae940870074e936bf9d3630f1c8bc474647f511fbdf259354f09b"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
