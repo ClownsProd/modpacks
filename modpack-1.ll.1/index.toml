@@ -472,6 +472,11 @@ hash = "28c5602431baae429193e6c7f99d1d2e5e5ff1cfa098ae83d4d293196a6c9c81"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "401a505f7a1197de65a243b26212ed02fc186c90886ae5536b7c747dacfd02ba"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "be7369da963f5326a771bbfa360365ac6ed939b01c2c268f4dd4a922718cd4a3"
 metafile = true
