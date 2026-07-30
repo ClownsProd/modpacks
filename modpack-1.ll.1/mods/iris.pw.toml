@@ -12,5 +12,5 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11
 hash = "c1b46bcd1a0068deab3ae364a7229d31e27b7d45aea960e47503b8514354426badf83f354529db35d83e6b55727a53895fb9f13085e51d8148ee6765affac924"
 
 [option]
-description = "Шейдеры"
+description = "Шейдеры (несовместимы с граффити)"
 optional = true
