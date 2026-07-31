@@ -183,12 +183,17 @@ metafile = true
 
 [[files]]
 file = "mods/bubstein-book.pw.toml"
-hash = "ec1445b831acf9b15832f1dd8cae01523492db7c158117b9891d7b7a86ae4490"
+hash = "81928202294be3060c235508c4574d85f211ca3818035ebf4758aefc5468ec27"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1e7880ad0f619559721ed817073279c49fcbee8c579163ff4eaf755318a536e5"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "428e5adf06ed95e5bfbcde869f3dc72c22f33fc565721892e3f2bb7fffe8508f"
 metafile = true
 
 [[files]]
@@ -337,6 +342,11 @@ hash = "bd7d7e3769834928d245bd62c28418fe3c2f2bc291c7b9661e1bbaa906695a68"
 metafile = true
 
 [[files]]
+file = "mods/glass-doors.pw.toml"
+hash = "016fd91dd61c732b2aff4eb69234ff8dec4186d811248a7efef44402d49d0a8c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
@@ -354,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "5eb2444ce1a1726ad219b3986548f0f5dbc251fa0f3352c740b7edebeccaf9bd"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d555631c007fb80e13411ebf9ac0e822e89ed9b75dc0d8e554ed20a5ff637d88"
 metafile = true
 
 [[files]]
@@ -474,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
+metafile = true
+
+[[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "d998929c6c0263d8bcfcfb1ea3f818d104e053e4c0f91ff064b3433223bb0755"
 metafile = true
 
 [[files]]
@@ -614,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "12f7929d34f36c9af034467f0ab94c1fd611c56a85389242fd1bca931efaf7cd"
+metafile = true
+
+[[files]]
+file = "mods/ziplines-rezipped.pw.toml"
+hash = "3ca3490e76156d4614ad12289768353627d556c545df22e2e563dfcc432abe89"
 metafile = true
 
 [[files]]
