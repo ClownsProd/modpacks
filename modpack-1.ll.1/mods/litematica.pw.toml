@@ -13,3 +13,4 @@ hash = "4e94924b1b2de5c3e1d1a99f0e45946bec97f9e712f359afcd3c3fb09cedc78d3c11c148
 
 [option]
 description = "Мод на схематики"
+optional = true
