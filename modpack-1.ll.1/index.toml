@@ -122,6 +122,11 @@ hash = "660d74e840c9c0d0dda40dbcf1ae67ca73daef2cbb9079fb0c18488cac741f35"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "4a23e8d96bcd9514ea66860790cc417a5ba99e259b69df38b9d48d07db10f124"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "34b046ac61c777473a4979d27c96856b2596338b2a4e676e9ba1e838c528969e"
 metafile = true
@@ -129,6 +134,16 @@ metafile = true
 [[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "1d07aae485a2a92527e66367b656e743ec6e84471296f2f93bee163de3eb5460"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "7e40269f47995ac1bfb6dfd2bbc8689ee4ecefc6f5486acf448b38473d534185"
 metafile = true
 
 [[files]]
@@ -357,8 +372,18 @@ hash = "541e9540163d37863f9a2f0660823d4cb15a7de001886d82960803a57e485024"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "d254e88d00629c4737fee07f369c04dec16a0de74d4694049c8c78a359de0e54"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "11f2c11b9913425037568109b9531ee42a98a27f73eeb104bd2042e6f507fe81"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ab3be4435d81feb60e0faeee73ad9250dbe6a924d92e3d8d47819b56414f1c5c"
 metafile = true
 
 [[files]]
@@ -369,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/main_menu_credits.pw.toml"
 hash = "2e691e9b0335390aae11158f2ce26495e756d5607f847a89ddc0f123e12f717c"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "09810fca32fe0ef88987b60c6aeac290d8ae2463988e77c164011b09756e1845"
 metafile = true
 
 [[files]]
@@ -454,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "6ef115790ce36fb4794efcef2eda08eea0c849ae26f6bc8d0af3e03e1e2b03b8"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
 metafile = true
 
 [[files]]
@@ -549,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "93e9e9d96cc2aceebf8625a7a893071f81011f54bf14e4ca802f4b41723184c0"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
