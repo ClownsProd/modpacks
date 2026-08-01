@@ -402,6 +402,11 @@ hash = "ab3be4435d81feb60e0faeee73ad9250dbe6a924d92e3d8d47819b56414f1c5c"
 metafile = true
 
 [[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "02f7e7f511f7654b4b3d3c1156ecb1fbf633e382e9bea8d12979c9b7d42cde19"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "4b1e25f6ed4457f92f915a259d350d8c68045423e37084f93e2d678f4ab64a27"
 metafile = true
