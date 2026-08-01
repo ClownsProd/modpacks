@@ -30,3 +30,16 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.mouse.5
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.wwaypoints.open_menu:key.keyboard.j
+key_key.wwaypoints.open_settings:key.keyboard.k
+key_key.afkcinematics.open_settings:key.keyboard.insert

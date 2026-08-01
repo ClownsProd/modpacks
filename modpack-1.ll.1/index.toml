@@ -97,6 +97,10 @@ file = "config/modpack_defaults/config/sodium-shadowy-path-blocks-options.json"
 hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
+file = "config/modpack_defaults/config/voicechat/voicechat-client.properties"
+hash = "62d23d99eacb9f1f065d349d0facc6f84b8cf28a6e3c6d83b89f8dd12c03aebb"
+
+[[files]]
 file = "config/modpack_defaults/config/zoomify.json"
 hash = "74d23728cfcc07162d5ac0f80de7cffe42648acb120ee05187ee60f0a0d86ccd"
 
@@ -106,7 +110,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "2cab4fce61651a863b635b45367b8525d951914c0d35bbe4a89d9565a47be8a8"
+hash = "e509999df5f6cb381c08c79155792bc0f891c806257dd140debf6096326f9fbb"
 
 [[files]]
 file = "config/modpack_defaults/servers.dat"
