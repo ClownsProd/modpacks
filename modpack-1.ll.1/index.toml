@@ -376,6 +376,11 @@ hash = "d555631c007fb80e13411ebf9ac0e822e89ed9b75dc0d8e554ed20a5ff637d88"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "214ca2e92e71aa8a3afec72d4729f5c658bf6103e4893787a532da962d9baa31"
+metafile = true
+
+[[files]]
 file = "mods/lambdynlights.pw.toml"
 hash = "97d5ba9fdb16ba0ef5a1012937bb6402bed68c3b78329463d2c16d18c94ca83a"
 metafile = true
@@ -583,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "bc2c97f6e110e6b699b66fc4cdcfd9caeffa5cc56e6fb2add6078ba4c603ee7d"
-metafile = true
-
-[[files]]
-file = "mods/street-art.pw.toml"
-hash = "8b59a8be86cab68be489326bfcac68563c7eaa385db5bf460b40c6cc442bc64c"
 metafile = true
 
 [[files]]

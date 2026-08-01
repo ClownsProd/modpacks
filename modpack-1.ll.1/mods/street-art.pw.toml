@@ -1,8 +1,0 @@
-name = "Street Art"
-filename = "street_art-1.0.15.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Timtaran/street-art-26.2/releases/download/1.0.15/street_art-1.0.15.jar"
-hash-format = "sha256"
-hash = "40b63e1f3744167c81518ad582d35abdb5871d6e2c69b274d58923d8db6b6138"
