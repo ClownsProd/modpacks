@@ -1,8 +1,8 @@
 name = "Glass Doors"
-filename = "glass-doors-1.0.0.jar"
+filename = "glass-doors-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/glass-doors-1.0.0.jar"
+url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/glass-doors-1.0.1.jar"
 hash-format = "sha256"
-hash = "6716bee1d0f1f37195d3da428c186ba89d2b34d5fe3bd4c08a9b2564019068f7"
+hash = "3d4324fcbdedd5180a90d7be30afa9ae03c6e80beeeb6b2a97c9aeb97271640f"

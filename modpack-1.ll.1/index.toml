@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/glass-doors.pw.toml"
-hash = "016fd91dd61c732b2aff4eb69234ff8dec4186d811248a7efef44402d49d0a8c"
+hash = "44a17c0225e17154d5c7667d8712d8e0861f78c31b4244d7cdcfa851b7d1df84"
 metafile = true
 
 [[files]]
