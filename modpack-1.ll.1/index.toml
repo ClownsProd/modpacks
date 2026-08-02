@@ -121,6 +121,11 @@ file = "config/reeses_sodium_options.json"
 hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "f4bc779b70e2f4cc5201484358e91124fec38fdd74f69a625e24b7679866fb59"
+metafile = true
+
+[[files]]
 file = "mods/afk-cinematics.pw.toml"
 hash = "660d74e840c9c0d0dda40dbcf1ae67ca73daef2cbb9079fb0c18488cac741f35"
 metafile = true
@@ -253,6 +258,16 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "88aa13d41089c63696b88a60353b21156b67416affbdb1f162478b4771b76ff2"
+metafile = true
+
+[[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "998f43db75a7593f0628afeef8365bcad6ab94316988598b0d914930ccf076a2"
+metafile = true
+
+[[files]]
+file = "mods/display-delight-fabric.pw.toml"
+hash = "f7b8560a79f57d32e7ac3e4e1582d53a5b3f6fa6ba1d65c28c7dbcc3861f8077"
 metafile = true
 
 [[files]]
@@ -436,6 +451,11 @@ hash = "f2c9bd84db7ab7b01ea2aff839eedf0faa6cd4c8e85b0f06b7463983a2fad71b"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "d6f10b74ff36acbbd50240c01ac43823c146798a01e7b16eda3a5a4be4b50692"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "02e48006b97275ced764d2b40c5563e6b995da4221f2b06e12d643b82f37bfae"
 metafile = true
@@ -521,6 +541,11 @@ hash = "6ef115790ce36fb4794efcef2eda08eea0c849ae26f6bc8d0af3e03e1e2b03b8"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "96f3d9601411d66c064ba0d2797bd051323908bd70f1f0378fd18af85869743f"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
 metafile = true
@@ -603,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+metafile = true
+
+[[files]]
+file = "mods/tweaks-delight.pw.toml"
+hash = "1e36132447b9eb25e7d40b0afa74acc146a4bbbf4b2238563e7ec3b149105e2c"
 metafile = true
 
 [[files]]

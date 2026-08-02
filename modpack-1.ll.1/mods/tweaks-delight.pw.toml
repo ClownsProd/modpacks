@@ -1,0 +1,13 @@
+name = "Tweaks Delight"
+filename = "tweaksdelight-26.06.24-26.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k4B832GB/versions/oj60C4Gt/tweaksdelight-26.06.24-26.2-fabric.jar"
+hash-format = "sha512"
+hash = "3721e9f7009dbae1bcc0a1e9abfcd4bb098472e34bfe9e31e4a9d6dc8cd4fde2d45c47f20c25acaef0de9bb6e42ca01defd7ba45098e897b8e2daf1fdea9fad2"
+
+[update]
+[update.modrinth]
+mod-id = "k4B832GB"
+version = "oj60C4Gt"
