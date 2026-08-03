@@ -541,11 +541,6 @@ hash = "6ef115790ce36fb4794efcef2eda08eea0c849ae26f6bc8d0af3e03e1e2b03b8"
 metafile = true
 
 [[files]]
-file = "mods/rustic-delight.pw.toml"
-hash = "96f3d9601411d66c064ba0d2797bd051323908bd70f1f0378fd18af85869743f"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
 metafile = true
