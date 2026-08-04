@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/bubstein-book.pw.toml"
-hash = "81928202294be3060c235508c4574d85f211ca3818035ebf4758aefc5468ec27"
+hash = "00ffbb591a8772325ba5ddb72b7be5b79df1cdfb0ccdbad0cd0ef514095ad9d6"
 metafile = true
 
 [[files]]
@@ -363,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/glass-doors.pw.toml"
 hash = "44a17c0225e17154d5c7667d8712d8e0861f78c31b4244d7cdcfa851b7d1df84"
+metafile = true
+
+[[files]]
+file = "mods/i-hope-it-will-rain-forever.pw.toml"
+hash = "7cc75e84960bec27748250d048d6ad64ff9cad6ced7bfd26ccb2f2b786e82478"
 metafile = true
 
 [[files]]
