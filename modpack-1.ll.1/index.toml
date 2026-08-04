@@ -376,6 +376,11 @@ hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-storms.pw.toml"
+hash = "05de50b0976a06e48a87eb83f623a61b4861da62686d7fc7e8bff41e5ae93641"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "a589271f32b98540eca5e7ae8b12541ad5aa8e637b9dd8c45b26e9419a02803c"
 metafile = true
