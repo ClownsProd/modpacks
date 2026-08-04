@@ -1,8 +1,8 @@
 name = "Bubstein Book"
-filename = "bubsteinbook-1.0.2.jar"
+filename = "bubsteinbook-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/bubsteinbook-1.0.2.jar"
+url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/bubsteinbook-1.0.3.jar"
 hash-format = "sha256"
-hash = "d13982f6aa177480c64dd7963c986cce69551866df460375b15bb8ae9af6e117"
+hash = "7472e096635b7daf1f840b4afaae36bc8459f8af583c2773558437a5cb0b0108"

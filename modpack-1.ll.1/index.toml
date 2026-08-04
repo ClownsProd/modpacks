@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/bubstein-book.pw.toml"
-hash = "00ffbb591a8772325ba5ddb72b7be5b79df1cdfb0ccdbad0cd0ef514095ad9d6"
+hash = "962ddc42bcbce50e0f23077fd85b4c1b9918a359f3a2fff1bfa7a52d5f7813a7"
 metafile = true
 
 [[files]]
