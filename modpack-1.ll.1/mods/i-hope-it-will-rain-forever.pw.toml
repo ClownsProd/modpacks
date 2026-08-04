@@ -1,8 +1,0 @@
-name = "I hope it will rain forever"
-filename = "i-hope-it-will-rain-forever-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/i-hope-it-will-rain-forever-1.0.0.jar"
-hash-format = "sha256"
-hash = "6b670660dbe0bff7422826510e49143e31502667b0af3b6eea6aed53d15c5a1b"

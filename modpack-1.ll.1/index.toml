@@ -366,11 +366,6 @@ hash = "44a17c0225e17154d5c7667d8712d8e0861f78c31b4244d7cdcfa851b7d1df84"
 metafile = true
 
 [[files]]
-file = "mods/i-hope-it-will-rain-forever.pw.toml"
-hash = "7cc75e84960bec27748250d048d6ad64ff9cad6ced7bfd26ccb2f2b786e82478"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
