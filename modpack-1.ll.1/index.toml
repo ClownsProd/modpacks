@@ -526,6 +526,11 @@ hash = "0bb18a65fe77d1f1603a7ba564e93f3dbd1c8c4d6bcac196eb3756dd8447487a"
 metafile = true
 
 [[files]]
+file = "mods/puddles-floods.pw.toml"
+hash = "4870553437bf3ca7b916c429862c67a810ad7e11d3d67d373f774b49e9775904"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "4e2207bde16a65160958cd795731b6d6d7474c4fe0e4e0587a485bdbb7006a67"
 metafile = true
