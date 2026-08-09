@@ -171,6 +171,11 @@ hash = "b8610e90885bb02aa8412af30634ca5c4d0bb7be0d109a0f88c61389862cca85"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "c9f9627be115f45d91c1c47f5b672f58cfcff004954e3cfe5a71f5c1577ec32e"
+metafile = true
+
+[[files]]
 file = "mods/bendable-cuboids.pw.toml"
 hash = "deddb697fe24983ca3b7ce2becc1dd4f522a157d17c32e91b0d958c7fae3f697"
 metafile = true
@@ -366,6 +371,11 @@ hash = "44a17c0225e17154d5c7667d8712d8e0861f78c31b4244d7cdcfa851b7d1df84"
 metafile = true
 
 [[files]]
+file = "mods/i-hope-it-will-rain-forever.pw.toml"
+hash = "1b4c5da122bfc3fe082ee80cea1b5a4253b4e1e9929c98a4427062bb3675f9f1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
@@ -471,6 +481,11 @@ hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "8869f77dfbc37e83dc0d0ea34fcaaa1faf235dff008767a444b68ede8ca7390d"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
 metafile = true
@@ -508,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "0bb18a65fe77d1f1603a7ba564e93f3dbd1c8c4d6bcac196eb3756dd8447487a"
-metafile = true
-
-[[files]]
-file = "mods/puddles-floods.pw.toml"
-hash = "4870553437bf3ca7b916c429862c67a810ad7e11d3d67d373f774b49e9775904"
 metafile = true
 
 [[files]]
