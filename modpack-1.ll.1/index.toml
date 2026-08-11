@@ -256,6 +256,11 @@ hash = "b42236c47fcf16ba0392694a2230c932487c04100a6585a589508985cc4b31a9"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "9a84a267ccafb2d676380cb8f660274a55ccb6e5d20ccbbcec96554b5f74a965"
+metafile = true
+
+[[files]]
 file = "mods/cwb.pw.toml"
 hash = "1d390691ec8a9c827b489aa56c65a829a195131ee64d2235dfb1ee1bf97442bb"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/easywhitelist.pw.toml"
 hash = "5468d53bd0664dc38a7b8817c9cdff9c250e0758bc03ebd1fcc17c97ff11daf0"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "e3ace8d9a848a8c3ec480ea07a9b7d5d60b3452d0f616103d8f3ead843c5f7cf"
 metafile = true
 
 [[files]]
