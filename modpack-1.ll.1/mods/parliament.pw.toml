@@ -1,0 +1,8 @@
+name = "Parliament"
+filename = "parliament-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ClownsProd/modpacks/raw/refs/heads/master/files/1.ll.1/parliament-1.0.0.jar"
+hash-format = "sha256"
+hash = "91b08d6e9d50c48027f5346f0fe9c8ff65cc78378d0b980981e9ae5c0908891a"

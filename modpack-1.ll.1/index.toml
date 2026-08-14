@@ -381,11 +381,6 @@ hash = "44a17c0225e17154d5c7667d8712d8e0861f78c31b4244d7cdcfa851b7d1df84"
 metafile = true
 
 [[files]]
-file = "mods/i-hope-it-will-rain-forever.pw.toml"
-hash = "1b4c5da122bfc3fe082ee80cea1b5a4253b4e1e9929c98a4427062bb3675f9f1"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8d4ffba0fcbdfd6c2f2e738f01bd4853f11bb416fe9ee4f7199fd4ff885280b3"
 metafile = true
@@ -508,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "a0f9984b63bdca47210c0e34faecfc9d1afb4987d5ea584ddc35937d82f93b17"
+metafile = true
+
+[[files]]
+file = "mods/parliament.pw.toml"
+hash = "1b4463d30e218717d98468fef26c57a6dee77b612f798693e9f30e8daa31c693"
 metafile = true
 
 [[files]]
