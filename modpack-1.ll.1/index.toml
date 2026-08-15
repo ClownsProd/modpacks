@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/parliament.pw.toml"
-hash = "1b4463d30e218717d98468fef26c57a6dee77b612f798693e9f30e8daa31c693"
+hash = "fc055f445228a7971d52105fdf688187372b8a60b15b0e69f43a651da4a1fe4c"
 metafile = true
 
 [[files]]
